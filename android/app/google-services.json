@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "423484526245",
+    "project_id": "fir-test-37584",
+    "storage_bucket": "fir-test-37584.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423484526245:android:26392e968928310365874c",
+        "android_client_info": {
+          "package_name": "com.example.fikrah_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423484526245-n7pp34rd3ig0jd71l20r2vuanpc7vd84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALOtr32wUrn5xSOx1lihVLji0Ft-Ae5rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423484526245-n7pp34rd3ig0jd71l20r2vuanpc7vd84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
